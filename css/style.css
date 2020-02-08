@@ -1,0 +1,70 @@
+body {
+
+
+    color: brown;
+    background-color: darkgrey;
+}
+.kenny{
+    color: cadetblue;
+    float: left;
+}
+
+
+
+
+
+.messi{
+    color: gold;
+
+
+
+}
+.neymar  {
+    color: green;
+
+
+
+}
+img {
+    float: left;
+
+
+
+
+
+}
+.roro{
+    margin: 30px;
+    padding: 43px;
+    background-color: crimson;
+    box-sizing: content-box;
+    border: cyan;
+    box-shadow: chocolate;
+}
+.Rashford p a{
+    
+        color: #000;
+
+    
+
+    
+
+
+
+}
+.lingard a{
+    color: crimson;
+
+
+}
+
+
+
+
+@media screen and (min-width:479px){
+    body{
+
+        background-color: darkblue;
+    }
+}
+
